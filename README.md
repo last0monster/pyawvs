@@ -1,5 +1,5 @@
 # pyawvs
-pyawvs是python3实现的awvs api和shell管理脚本，只实现了部分核心功能。
+pyawvs是python3实现的awvs 12 api和shell管理脚本，只实现了部分核心功能。
 ## usage
 ```
 usage: pyawvs.py [-h] [-c CONFIG] [-i] [-r] [--awvs-api AWVS_API]
